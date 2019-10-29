@@ -133,3 +133,25 @@ __Output:__ [1, 3, 2]
 ## References
 
 [Tree Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+
+# Hanoi Tower
+
+Resolve hanoi tower problem. The objective is move a disc from source post to destiny post without put biggest disk on top of smallest disk.
+
+Resolution:
+
+```javascript
+Move disc 1 from Src to Dist
+Move disc 2 from Src to Aux
+Move disc 1 from Dist to Aux
+Move disc 3 from Src to Dist
+Move disc 1 from Aux to Src
+Move disc 2 from Aux to Dist
+Move disc 1 from Src to Dist
+```
+
+## References
+
+[Javascript: The good parts](https://www.amazon.com/JavaScript-Good-Parts-ebook/dp/B0026OR2ZY)
+
+
