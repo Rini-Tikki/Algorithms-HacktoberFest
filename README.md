@@ -55,6 +55,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 - `A` [interpolation search](C++/interpolation_search.cpp)
 - `B` [Stack](Python/stack.py)
 - `B` [Bubble](Python/bubblesort.py)
+- `B` [Bucket Sort](Python/bubblesort.py)
 - `B` [QuickSort](Python/quicksort.py)
 - `B` [Randomized_QuickSort](Python/randomized_quicksort.py)
 - `B` [Linear Search](Python/multi.py)
