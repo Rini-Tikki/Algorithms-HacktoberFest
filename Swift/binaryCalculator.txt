@@ -1,0 +1,22 @@
+import UIKit
+
+enum Operator {
+    case ADD, SUBTRACT, MULTIPLY
+}
+
+func calculate(_ a: String, _ b: String, _ op: Operator ) -> String {
+    
+    switch op {
+    case .ADD:
+        let add = Int(a, radix: 2)! + Int(b, radix: 2)!
+        return String(add, radix: 2)
+    case .SUBTRACT:
+        let subtract = Int(a, radix: 2)! - Int(b, radix: 2)!
+        return String(subtract, radix: 2)
+    case .MULTIPLY:
+        let multiply = Int(a, radix: 2)! * Int(b, radix: 2)!
+        return String(multiply, radix: 2)
+    default:
+        return "nil"
+    }
+}
