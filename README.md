@@ -33,6 +33,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 - `A` [Euler's Totient Function](C++/eulers_totient.cpp)
 - `A` [Modular Inverse](C++/modular_inverse.cpp)
 - `A` [Prefix Search using Trie] (c++/trie_prefix_search.cpp)
+- `A` [Dijkstra Shortest Path Algorithm] (C++/dijkstra.cpp)
 
 ## JavaScript
 
