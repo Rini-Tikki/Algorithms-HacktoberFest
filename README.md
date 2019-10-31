@@ -149,6 +149,9 @@ Write Algorithm in any language and contribute to HacktoberFest
 - `B` [DFS - Adj List Based](Haskell/dfs.hs)
 - `B` [Merge Sort](Haskell/mergesort.hs)
 
+## Ruby
+- [Reverse String](Ruby/reverse_string.rb)
+
 ---
 
 ---
