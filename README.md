@@ -32,6 +32,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 - `A` [Interval Scheduling Algorithm](C++/interval_scheduling.cpp)
 - `A` [Euler's Totient Function](C++/eulers_totient.cpp)
 - `A` [Modular Inverse](C++/modular_inverse.cpp)
+- `A` [Prefix Search using Trie] (c++/trie_prefix_search.cpp)
 
 ## JavaScript
 
