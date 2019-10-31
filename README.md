@@ -131,6 +131,11 @@ Write Algorithm in any language and contribute to HacktoberFest
 
 - `B` [Simple addition](COBOL/simpleAddition)
 
+## SWIFT
+
+- `A` [Bubble Sort](Swift/bubble_sort.swift)
+
+
 ## SOLIDITY
 
 - `B` [Hello World](solidity/hello-world.sol)
